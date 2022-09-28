@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello 👋
 
+I'm an aspiring Deep Learning Engineer with my domains of interest being Computer Vision and Artificial Intelligence. I have experience with Full Stack Web Development with technologies like Docker, Git etc.
+
+[![Janmey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vortexx2&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vortexx2)](https://github.com/anuraghazra/github-readme-stats)
+
+🔭 I’m currently working on projects involving Computer Vision and Deep Learning.
+
+🌱 I’m currently learning integration of Deep Learning with APIs.
 <!--
 **Vortexx2/Vortexx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
