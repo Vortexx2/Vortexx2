@@ -1,6 +1,6 @@
 ### Hello 👋
 
-👔 I have been a Data Science Intern at Zscaler for the past 10 months and have been working in a myriad of interesting applications of ML and DL in the space of cybersecurity. Thanks to the diverse kinds of problems I get to solve on a day-to-day basis here, I have had exposure to Knowledge Graph based methods, highly detailed feature engineering, using LLMs to integrate domain knowledge and many more interesting use cases.
+👔 I have been a Data Scientist at Zscaler for more than the past year and have been working in a myriad of interesting applications of ML and DL in the space of cybersecurity. Thanks to the diverse kinds of problems I get to solve on a day-to-day basis here, I have had exposure to Knowledge Graph based methods, highly detailed feature engineering, using LLMs to integrate domain knowledge and many more interesting use cases.
 
 🔭 Previously, while learning the broad field of Machine Learning, I have had the opportunity to deep dive into Computer Vision and NLP applications. I still love reading up papers from Generative Modelling (Continuous Normal Flows is the next thing on my list to learn) to NLP / LLM based use cases. I do like to always differentiate between NLP and LLM because of the sheer brute force approach of one over the other. 
 
